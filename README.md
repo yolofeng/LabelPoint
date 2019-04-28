@@ -1,11 +1,7 @@
 LabelImg
 ========
 
-.. image:: https://img.shields.io/pypi/v/labelimg.svg
-        :target: https://pypi.python.org/pypi/labelimg
-
-.. image:: https://img.shields.io/travis/tzutalin/labelImg.svg
-        :target: https://travis-ci.org/tzutalin/labelImg
+![Instance Segmentation Sample](sample/auto.png)
 
 LabelImg is a graphical image annotation tool.
 
